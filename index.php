@@ -12,5 +12,10 @@
 
     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam, blanditiis molestiae minima eos dolorum architecto quis repellendus ut, delectus quod minus. Cupiditate, dolor assumenda illo reprehenderit aliquid sapiente tempore repellendus.</p>
 
+    <ul>
+        <li>1</li>
+        <li>2</li>
+    </ul>
+
 </body>
 </html>
